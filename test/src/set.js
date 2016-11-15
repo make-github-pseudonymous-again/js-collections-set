@@ -1,6 +1,8 @@
 import test from 'ava' ;
 
-import { set , KeyError } from '../../src' ;
+import { KeyError } from 'aureooms-js-error' ;
+
+import set from '../../src' ;
 
 test( set.name , t => {
 
