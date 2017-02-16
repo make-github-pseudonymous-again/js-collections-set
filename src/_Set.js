@@ -1,4 +1,4 @@
-import { KeyError } from 'aureooms-js-error' ;
+import { KeyError } from '@aureooms/js-error' ;
 
 export default function _Set ( BaseSet ) {
 

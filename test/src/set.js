@@ -1,6 +1,6 @@
 import test from 'ava' ;
 
-import { KeyError } from 'aureooms-js-error' ;
+import { KeyError } from '@aureooms/js-error' ;
 
 import set from '../../src' ;
 
