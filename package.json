@@ -1,5 +1,5 @@
 {
-  "name": "aureooms-js-collections-set",
+  "name": "@aureooms/js-collections-set",
   "description": "Python's set data structure for JavaScript",
   "version": "3.0.0",
   "author": "Aurélien Ooms <aurelien.ooms@gmail.com>",
@@ -23,7 +23,7 @@
     "url": "https://github.com/aureooms/js-collections-set/issues"
   },
   "dependencies": {
-    "aureooms-js-error": "^3.0.0"
+    "@aureooms/js-error": "^3.0.0"
   },
   "devDependencies": {
     "ava": "^0.18.1",
