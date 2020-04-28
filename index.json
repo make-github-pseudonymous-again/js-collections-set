@@ -1,0 +1,766 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/NativeSet.js",
+    "content": "export default Set ;\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-collections-set/src/NativeSet.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "file",
+    "name": "src/_Set.js",
+    "content": "import { KeyError } from '@aureooms/js-error' ;\n\nexport default function _Set ( BaseSet ) {\n\n\tconst Set = function ( iterable = null ) {\n\n\t\tthis.container = new BaseSet( iterable ) ;\n\n\t} ;\n\n\tSet.wrap = function ( A ) {\n\n\t\tif ( A instanceof Set ) return A ;\n\n\t\treturn new Set( A ) ;\n\n\t} ;\n\n\tSet._operator = function ( method ) {\n\n\t\treturn function ( ...args ) {\n\n\t\t\treturn method.apply( this , Array.from( args , Set.wrap ) ) ;\n\n\t\t} ;\n\n\t} ;\n\n\tSet._inclusion = function ( A , B ) {\n\n\t\treturn A._ispropersubset( B ) ? -1 : B._ispropersubset( A ) ? 1 : 0 ;\n\n\t} ;\n\n\tSet.inclusion = Set._operator( Set._inclusion ) ;\n\n\tSet.prototype[Symbol.iterator] =\n\tSet.prototype.keys = function* ( ) {\n\n\t\tyield* this.container ;\n\n\t} ;\n\n\tSet.prototype.len = function ( ) {\n\n\t\treturn this.container.size ;\n\n\t} ;\n\n\tSet.prototype.has = function ( key ) {\n\n\t\treturn this.container.has( key ) ;\n\n\t} ;\n\n\tSet.prototype._isdisjoint = function ( other ) {\n\n\t\treturn this._commonkeys( other ).next( ).done ;\n\n\t} ;\n\n\tSet.prototype.isdisjoint = Set._operator( Set.prototype._isdisjoint ) ;\n\n\tSet.prototype._isequal = function ( other ) {\n\n\t\treturn this._issubset( other ) && other._issubset( this ) ;\n\n\t} ;\n\n\tSet.prototype.isequal = Set._operator( Set.prototype._isequal ) ;\n\n\tSet.prototype._issubset = function ( other ) {\n\n\t\tif ( this.len( ) > other.len( ) ) return false ;\n\n\t\tfor ( let key of this ) if ( !other.has( key ) ) return false ;\n\n\t\treturn true ;\n\n\t} ;\n\n\tSet.prototype.issubset = Set._operator( Set.prototype._issubset ) ;\n\n\tSet.prototype._ispropersubset = function ( other ) {\n\n\t\treturn this._issubset( other ) && !this._issuperset( other ) ;\n\n\t} ;\n\n\tSet.prototype.ispropersubset = Set._operator( Set.prototype._ispropersubset ) ;\n\n\tSet.prototype._issuperset = function ( other ) {\n\n\t\treturn other._issubset( this ) ;\n\n\t} ;\n\n\tSet.prototype.issuperset = Set._operator( Set.prototype._issuperset ) ;\n\n\tSet.prototype._ispropersuperset = function ( other ) {\n\n\t\treturn this._issuperset( other ) && !this._issubset( other ) ;\n\n\t} ;\n\n\tSet.prototype.ispropersuperset = Set._operator( Set.prototype._ispropersuperset ) ;\n\n\tSet.prototype.union =\n\tSet.prototype._union = function ( ...others ) {\n\n\t\treturn this.copy( )._update( ...others ) ;\n\n\t} ;\n\n\tSet.prototype._commonkeys = function* ( ...others ) {\n\n\t\tkeys : for ( let key of this ) {\n\n\t\t\tfor ( let other of others ) {\n\n\t\t\t\tif ( !other.has( key ) ) continue keys ;\n\n\t\t\t}\n\n\t\t\tyield key ;\n\n\t\t}\n\n\t} ;\n\n\n\tSet.prototype._intersection = function ( ...others ) {\n\n\t\treturn new Set( this._commonkeys( ...others ) ) ;\n\n\t} ;\n\n\tSet.prototype.intersection = Set._operator( Set.prototype._intersection ) ;\n\n\tSet.prototype.difference =\n\tSet.prototype._difference = function ( ...others ) {\n\n\t\treturn this.copy( )._difference_update( ...others ) ;\n\n\t} ;\n\n\tSet.prototype.symmetric_difference =\n\tSet.prototype._symmetric_difference = function ( other ) {\n\n\t\treturn this.copy( )._symmetric_difference_update( other ) ;\n\n\t} ;\n\n\tSet.prototype.copy = function ( ) {\n\n\t\treturn new Set( this ) ;\n\n\t} ;\n\n\tSet.prototype.update =\n\tSet.prototype._update = function ( ...others ) {\n\n\t\tfor ( let other of others ) {\n\n\t\t\tfor ( let key of other ) this.add( key ) ;\n\n\t\t}\n\n\t\treturn this ;\n\n\t} ;\n\n\tSet.prototype._intersection_update = function ( ...others ) {\n\n\t\tconst intersection = this._intersection( ...others ) ;\n\n\t\tthis.clear( ).update( intersection ) ;\n\n\t\treturn this ;\n\n\t} ;\n\n\tSet.prototype.intersection_update = Set._operator( Set.prototype._intersection_update ) ;\n\n\tSet.prototype.difference_update =\n\tSet.prototype._difference_update = function ( ...others ) {\n\n\t\tfor ( let other of others ) {\n\n\t\t\tfor ( let key of other ) this.discard( key ) ;\n\n\t\t}\n\n\t\treturn this ;\n\n\t} ;\n\n\tSet.prototype.symmetric_difference_update =\n\tSet.prototype._symmetric_difference_update = function ( other ) {\n\n\t\tfor ( let key of other ) {\n\n\t\t\tif ( this.has( key ) ) this.discard( key ) ;\n\t\t\telse this.add( key ) ;\n\n\t\t}\n\n\t\treturn this ;\n\n\t} ;\n\n\tSet.prototype.add = function ( key ) {\n\n\t\tthis.container.add( key ) ;\n\n\t\treturn this ;\n\n\t} ;\n\n\tSet.prototype.remove = function ( key ) {\n\n\t\tif ( !this.container.delete( key ) ) throw new KeyError( ) ;\n\n\t\treturn this ;\n\n\t} ;\n\n\tSet.prototype.discard = function ( key ) {\n\n\t\tthis.container.delete( key ) ;\n\n\t\treturn this ;\n\n\t} ;\n\n\tSet.prototype.pop = function ( ) {\n\n\t\tif ( this.len( ) === 0 ) throw new KeyError( ) ;\n\n\t\tconst key = this.keys( ).next( ).value ;\n\n\t\tthis.discard( key ) ;\n\n\t\treturn key ;\n\n\t} ;\n\n\tSet.prototype.clear = function ( ) {\n\n\t\tthis.container.clear( ) ;\n\n\t\treturn this ;\n\n\t} ;\n\n\treturn Set ;\n\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-collections-set/src/_Set.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 50,
+    "kind": "function",
+    "name": "_Set",
+    "memberof": "src/_Set.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_Set.js~_Set",
+    "access": "private",
+    "export": true,
+    "importPath": "@aureooms/js-collections-set/src/_Set.js",
+    "importStyle": "_Set",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "BaseSet",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 51,
+    "kind": "file",
+    "name": "src/_set.js",
+    "content": "\nexport default function _set ( Set ) {\n\n\tconst set = function ( iterable = null ) {\n\n\t\treturn new Set( iterable ) ;\n\n\t} ;\n\n\tset.inclusion = Set.inclusion ;\n\n\treturn set ;\n\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-collections-set/src/_set.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 52,
+    "kind": "function",
+    "name": "_set",
+    "memberof": "src/_set.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_set.js~_set",
+    "access": "private",
+    "export": true,
+    "importPath": "@aureooms/js-collections-set/src/_set.js",
+    "importStyle": "_set",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [
+      {
+        "name": "Set",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 53,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "import _Set from './_Set' ;\nimport _set from './_set' ;\nimport NativeSet from './NativeSet' ;  // Use native implementation of set\n\nconst Set = _Set( NativeSet ) ; // overwrite native implementation\n\nconst set = _set( Set ) ;\n\nexport default set ;\n\nexport {\n\tset ,\n\tSet ,\n\t_set ,\n\t_Set ,\n} ;\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-collections-set/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 54,
+    "kind": "variable",
+    "name": "set",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~set",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-collections-set/src/index.js",
+    "importStyle": "set",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 55,
+    "kind": "variable",
+    "name": "Set",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~Set",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-collections-set/src/index.js",
+    "importStyle": "{Set}",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "kind": "index",
+    "content": "[js-collections-set](http://aureooms.github.io/js-collections-set)\n==\n\nPython's set data structure for JavaScript. Parent is\n[js-collections](https://github.com/aureooms/js-collections).\n\n```js\nset('abc').issubset( 'abcd' ) ; // true\n```\n\n[![License](https://img.shields.io/github/license/aureooms/js-collections-set.svg)](https://raw.githubusercontent.com/aureooms/js-collections-set/master/LICENSE)\n[![Version](https://img.shields.io/npm/v/@aureooms/js-collections-set.svg)](https://www.npmjs.org/package/@aureooms/js-collections-set)\n[![Build](https://img.shields.io/travis/aureooms/js-collections-set/master.svg)](https://travis-ci.org/aureooms/js-collections-set/branches)\n[![Dependencies](https://img.shields.io/david/aureooms/js-collections-set.svg)](https://david-dm.org/aureooms/js-collections-set)\n[![Dev dependencies](https://img.shields.io/david/dev/aureooms/js-collections-set.svg)](https://david-dm.org/aureooms/js-collections-set?type=dev)\n[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-collections-set.svg)](https://github.com/aureooms/js-collections-set/issues)\n[![Downloads](https://img.shields.io/npm/dm/@aureooms/js-collections-set.svg)](https://www.npmjs.org/package/@aureooms/js-collections-set)\n\n[![Code issues](https://img.shields.io/codeclimate/issues/aureooms/js-collections-set.svg)](https://codeclimate.com/github/aureooms/js-collections-set/issues)\n[![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-collections-set.svg)](https://codeclimate.com/github/aureooms/js-collections-set/trends/churn)\n[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-collections-set/master.svg)](https://codecov.io/gh/aureooms/js-collections-set)\n[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-collections-set.svg)](https://codeclimate.com/github/aureooms/js-collections-set/trends/technical_debt)\n[![Documentation](http://aureooms.github.io/js-collections-set//badge.svg)](http://aureooms.github.io/js-collections-set//source.html)\n[![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-collections-set)](https://bundlephobia.com/result?p=@aureooms/js-collections-set)\n",
+    "longname": "/home/aureooms/dev/js/js-collections-set/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"@aureooms/js-collections-set\",\n  \"description\": \"Python's set data structure for JavaScript\",\n  \"version\": \"4.0.0\",\n  \"author\": \"Aurélien Ooms <aurelien.ooms@gmail.com>\",\n  \"ava\": {\n    \"require\": [\n      \"@babel/polyfill\",\n      \"@babel/register\"\n    ],\n    \"files\": [\n      \"test/src/**/*\"\n    ],\n    \"timeout\": \"1m\"\n  },\n  \"babel\": {\n    \"presets\": [\n      \"@babel/preset-env\"\n    ],\n    \"env\": {\n      \"development\": {\n        \"sourceMaps\": \"inline\"\n      }\n    }\n  },\n  \"bugs\": {\n    \"url\": \"https://github.com/aureooms/js-collections-set/issues\"\n  },\n  \"dependencies\": {\n    \"@aureooms/js-error\": \"^4.0.0\"\n  },\n  \"devDependencies\": {\n    \"@babel/cli\": \"7.8.4\",\n    \"@babel/core\": \"7.9.0\",\n    \"@babel/polyfill\": \"7.8.7\",\n    \"@babel/preset-env\": \"7.9.5\",\n    \"@babel/register\": \"7.9.0\",\n    \"ava\": \"3.8.1\",\n    \"coveralls\": \"3.1.0\",\n    \"esdoc\": \"1.1.0\",\n    \"esdoc-inject-script-plugin\": \"1.0.0\",\n    \"esdoc-inject-style-plugin\": \"1.0.0\",\n    \"esdoc-standard-plugin\": \"1.0.0\",\n    \"np\": \"6.2.3\",\n    \"nyc\": \"15.0.1\"\n  },\n  \"files\": [\n    \"lib\"\n  ],\n  \"homepage\": \"http://aureooms.github.io/js-collections-set/\",\n  \"keywords\": [\n    \"collection\",\n    \"collections\",\n    \"javascript\",\n    \"js\",\n    \"set\"\n  ],\n  \"license\": \"AGPL-3.0\",\n  \"main\": \"lib/index.js\",\n  \"repository\": {\n    \"url\": \"https://github.com/aureooms/js-collections-set.git\",\n    \"type\": \"git\"\n  },\n  \"scripts\": {\n    \"build\": \"rm -rf lib && babel src -d lib\",\n    \"cover\": \"nyc --reporter=lcov npm test\",\n    \"esdoc\": \"esdoc\",\n    \"prepare\": \"npm run build\",\n    \"release\": \"np\",\n    \"test\": \"ava\"\n  }\n}\n",
+    "longname": "/home/aureooms/dev/js/js-collections-set/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manualIndex",
+    "globalIndex": false,
+    "content": null,
+    "longname": "",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-collections-set/doc/manual/overview.md",
+    "name": "./doc/manual/overview.md",
+    "content": "# Overview\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-collections-set/doc/manual/installation.md",
+    "name": "./doc/manual/installation.md",
+    "content": "# Installation\nCan be managed using\n[jspm](http://jspm.io)\nor [npm](https://github.com/npm/npm).\n\n### jspm\n```terminal\njspm install npm:@aureooms/js-collections-set\n```\n\n### npm\n```terminal\nnpm install @aureooms/js-collections-set --save\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-collections-set/doc/manual/usage.md",
+    "name": "./doc/manual/usage.md",
+    "content": "# Usage\nThe code needs a ES2015+ polyfill to work, for example\n[@babel/polyfill](https://babeljs.io/docs/usage/polyfill).\n```js\nrequire( '@babel/polyfill' ) ;\n// or\nimport '@babel/polyfill' ;\n```\n\nThen\n```js\nconst number = require( '@aureooms/js-collections-set' ) ;\n// or\nimport number from '@aureooms/js-collections-set' ;\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-collections-set/doc/manual/example.md",
+    "name": "./doc/manual/example.md",
+    "content": "# Examples\nSee Python's docs:\n\n  - [set](https://docs.python.org/3/library/stdtypes.html#set)\n\n## Some changes w.r.t. Python's API\n\n### `set`\n\n#### `set( iterable = null ) -> this`\n#### `set.inclusion( A , B ) -> {-1,0,1}`\n#### `set.prototype[Symbol.iterator]( ) -> iterable`\n#### `set.prototype.keys( ) -> iterable`\n#### `set.prototype.len( ) -> integer`\n#### `set.prototype.has( key ) -> boolean`\n#### `set.prototype.isdisjoint( other ) -> boolean`\n#### `set.prototype.isequal( other ) -> boolean`\n#### `set.prototype.issubset( other ) -> boolean`\n#### `set.prototype.ispropersubset( other ) -> boolean`\n#### `set.prototype.issuperset( other ) -> boolean`\n#### `set.prototype.ispropersuperset( other ) -> boolean`\n#### `set.prototype.union( ...others ) -> set`\n#### `set.prototype.intersection( ...others ) -> set`\n#### `set.prototype.difference( ...others ) -> set`\n#### `set.prototype.symmetric_difference( other ) -> set`\n#### `set.prototype.copy( ) -> set`\n#### `set.prototype.update( ...others ) -> this`\n#### `set.prototype.intersection_update( ...others ) -> this`\n#### `set.prototype.difference_update( ...others ) -> this`\n#### `set.prototype.symmetric_difference_update( other ) -> this`\n#### `set.prototype.add( key ) -> this`\n#### `set.prototype.remove( key ) -> this`\n#### `set.prototype.discard( key ) -> this`\n#### `set.prototype.pop( ) -> key`\n#### `set.prototype.clear( ) -> this`\n",
+    "static": true,
+    "access": "public"
+  }
+]

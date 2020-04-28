@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <base data-ice="baseUrl" href="../../">
-  <title data-ice="title">src/_set.js | @aureooms/js-collections-set</title>
+  <title data-ice="title">src/index.js | @aureooms/js-collections-set</title>
   <link type="text/css" rel="stylesheet" href="css/style.css">
   <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
   <script src="script/prettify/prettify.js"></script>
@@ -37,21 +37,23 @@
 </div>
 </nav>
 
-<div class="content" data-ice="content"><h1 data-ice="title">src/_set.js</h1>
-<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">
-export default function _set ( Set ) {
+<div class="content" data-ice="content"><h1 data-ice="title">src/index.js</h1>
+<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">import _Set from &apos;./_Set&apos; ;
+import _set from &apos;./_set&apos; ;
+import NativeSet from &apos;./NativeSet&apos; ;  // Use native implementation of set
 
-	const set = function ( iterable = null ) {
+const Set = _Set( NativeSet ) ; // overwrite native implementation
 
-		return new Set( iterable ) ;
+const set = _set( Set ) ;
 
-	} ;
+export default set ;
 
-	set.inclusion = Set.inclusion ;
-
-	return set ;
-
-}
+export {
+	set ,
+	Set ,
+	_set ,
+	_Set ,
+} ;
 </code></pre>
 
 </div>
