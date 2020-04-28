@@ -1,3 +1,4 @@
+# Examples
 See Python's docs:
 
   - [set](https://docs.python.org/3/library/stdtypes.html#set)
