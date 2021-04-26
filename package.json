@@ -73,7 +73,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/aureooms/js-collections-set/issues"
+    "url": "https://github.com/make-github-pseudonymous-again/js-collections-set/issues"
   },
   "dependencies": {
     "@aureooms/js-error": "^5.0.0"
@@ -111,7 +111,7 @@
   "license": "AGPL-3.0",
   "main": "lib/index.js",
   "repository": {
-    "url": "https://github.com/aureooms/js-collections-set.git",
+    "url": "https://github.com/make-github-pseudonymous-again/js-collections-set.git",
     "type": "git"
   },
   "scripts": {
