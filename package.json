@@ -1,8 +1,8 @@
 {
-  "name": "@aureooms/js-collections-set",
+  "name": "@collection-abstraction/set",
   "description": "Python's set data structure for JavaScript",
   "version": "4.0.0",
-  "author": "Aurélien Ooms <aurelien.ooms@gmail.com>",
+  "author": "make-github-pseudonymous-again",
   "ava": {
     "require": [
       "regenerator-runtime/runtime",
@@ -73,7 +73,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/make-github-pseudonymous-again/js-collections-set/issues"
+    "url": "https://github.com/collection-abstraction/set/issues"
   },
   "dependencies": {
     "@aureooms/js-error": "^5.0.0"
@@ -100,7 +100,7 @@
   "files": [
     "lib"
   ],
-  "homepage": "http://make-github-pseudonymous-again.github.io/js-collections-set/",
+  "homepage": "http://collection-abstraction.github.io/set",
   "keywords": [
     "collection",
     "collections",
@@ -111,7 +111,7 @@
   "license": "AGPL-3.0",
   "main": "lib/index.js",
   "repository": {
-    "url": "https://github.com/make-github-pseudonymous-again/js-collections-set.git",
+    "url": "https://github.com/collection-abstraction/set.git",
     "type": "git"
   },
   "scripts": {

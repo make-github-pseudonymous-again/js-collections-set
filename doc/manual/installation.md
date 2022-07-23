@@ -5,10 +5,10 @@ or [npm](https://github.com/npm/npm).
 
 ### jspm
 ```terminal
-jspm install npm:@aureooms/js-collections-set
+jspm install npm:@collection-abstraction/set
 ```
 
 ### npm
 ```terminal
-npm install @aureooms/js-collections-set --save
+npm install @collection-abstraction/set --save
 ```

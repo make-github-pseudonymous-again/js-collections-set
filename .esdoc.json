@@ -35,7 +35,7 @@
           "autoPrivate": true
         },
         "brand": {
-          "title": "@aureooms/js-collections-set"
+          "title": "@collection-abstraction/set"
         },
         "test": {
           "type": "ava",

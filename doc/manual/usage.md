@@ -9,7 +9,7 @@ import 'regenerator-runtime/runtime' ;
 
 Then
 ```js
-const number = require( '@aureooms/js-collections-set' ) ;
+const number = require( '@collection-abstraction/set' ) ;
 // or
-import number from '@aureooms/js-collections-set' ;
+import number from '@collection-abstraction/set' ;
 ```
