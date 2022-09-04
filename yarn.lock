@@ -10,11 +10,6 @@
     "@jridgewell/gen-mapping" "^0.1.0"
     "@jridgewell/trace-mapping" "^0.3.9"
 
-"@aureooms/js-error@^5.0.0":
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/@aureooms/js-error/-/js-error-5.0.1.tgz#474e2f1dd7189f97df770b5cc6f1bda536de262d"
-  integrity sha512-BbbpKpp4W8L2x9vL4bas+JtuAe4PMojzTpf21puHPw5p3S+lgKd8SfS9y40pVHi/b3SrQrdpmsaEKjL4xviilQ==
-
 "@babel/code-frame@^7.0.0":
   version "7.12.11"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.12.11.tgz#f4ad435aa263db935b8f10f2c552d23fb716a63f"
@@ -2091,6 +2086,11 @@
     js-yaml "^4.1.0"
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
+
+"@failure-abstraction/error@^6.0.1":
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/@failure-abstraction/error/-/error-6.0.1.tgz#ab6929395c7ed3ec74d86db2976e74e31f9569e2"
+  integrity sha512-KvIHhvwfrgbUduQbk55WRDGL2XcXjDLwleId+pSnK7mUUIY7zMGMy3N+ouDcOFymme48tKDlarKsYj5mEEd3fg==
 
 "@humanwhocodes/config-array@^0.10.4":
   version "0.10.4"

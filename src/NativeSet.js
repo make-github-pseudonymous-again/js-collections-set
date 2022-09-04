@@ -1,1 +1,1 @@
-export default Set ;
+export default Set;
