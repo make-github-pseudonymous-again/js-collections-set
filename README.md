@@ -12,8 +12,7 @@ set('abc').issubset( 'abcd' ) ; // true
 [![License](https://img.shields.io/github/license/collection-abstraction/set.svg)](https://raw.githubusercontent.com/collection-abstraction/set/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@collection-abstraction/set.svg)](https://www.npmjs.org/package/@collection-abstraction/set)
 [![Build](https://img.shields.io/travis/collection-abstraction/set/main.svg)](https://travis-ci.org/collection-abstraction/set/branches)
-[![Dependencies](https://img.shields.io/david/collection-abstraction/set.svg)](https://david-dm.org/collection-abstraction/set)
-[![Dev dependencies](https://img.shields.io/david/dev/collection-abstraction/set.svg)](https://david-dm.org/collection-abstraction/set?type=dev)
+[![Dependencies](https://img.shields.io/librariesio/github/collection-abstraction/set.svg)](https://github.com/collection-abstraction/set/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/collection-abstraction/set.svg)](https://github.com/collection-abstraction/set/issues)
 [![Downloads](https://img.shields.io/npm/dm/@collection-abstraction/set.svg)](https://www.npmjs.org/package/@collection-abstraction/set)
 
