@@ -1,14 +1,22 @@
 # Installation
-Can be managed using
-[jspm](http://jspm.io)
-or [npm](https://github.com/npm/npm).
 
-### jspm
+Can be managed using
+[yarn](https://yarnpkg.com/en/docs),
+[npm](https://docs.npmjs.com),
+or [jspm](https://jspm.org/docs).
+
+
+### yarn
 ```terminal
-jspm install npm:@collection-abstraction/set
+yarn add @collection-abstraction/set
 ```
 
 ### npm
 ```terminal
 npm install @collection-abstraction/set --save
+```
+
+### jspm
+```terminal
+jspm install npm:@collection-abstraction/set
 ```

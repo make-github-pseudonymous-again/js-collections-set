@@ -2,8 +2,14 @@
 [@collection-abstraction/set](https://collection-abstraction.github.io/set)
 ==
 
-Python's set data structure for JavaScript. Parent is
+Python's set data structure for JavaScript.
+See [docs](https://collection-abstraction.github.io/set/index.html).
+Parent is
 [js-data-structures](https://github.com/make-github-pseudonymous-again/js-data-structures).
+
+> :warning: Depending on your environment, the code may require
+> `regeneratorRuntime` to be defined, for instance by importing
+> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).
 
 ```js
 set('abc').issubset( 'abcd' ) ; // true

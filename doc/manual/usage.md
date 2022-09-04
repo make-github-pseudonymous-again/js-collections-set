@@ -1,15 +1,19 @@
 # Usage
-The code needs a ES2015+ polyfill to work, for example
-[regenerator-runtime/runtime](https://babeljs.io/docs/usage/polyfill).
+
+> :warning: Depending on your environment, the code may require
+> `regeneratorRuntime` to be defined, for instance by importing
+> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).
+
+First, require the polyfill at the entry point of your application
 ```js
-await import( 'regenerator-runtime/runtime.js' ) ;
+await import('regenerator-runtime/runtime.js');
 // or
-import 'regenerator-runtime/runtime.js' ;
+import 'regenerator-runtime/runtime.js';
 ```
 
-Then
+Then, import the library where needed
 ```js
-const number = await import( '@collection-abstraction/set' ) ;
+const {set} = await import('@collection-abstraction/set');
 // or
-import number from '@collection-abstraction/set' ;
+import {set} from '@collection-abstraction/set';
 ```
