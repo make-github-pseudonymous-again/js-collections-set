@@ -94,6 +94,7 @@
       ]
     ],
     "env": {
+      "debug": {},
       "test": {
         "sourceMaps": "inline",
         "presets": [
