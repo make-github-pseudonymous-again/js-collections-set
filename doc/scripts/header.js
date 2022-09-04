@@ -17,7 +17,7 @@ domReady(function () {
 	header.insertBefore(projectname, header.firstChild);
 
 	const testlink = document.querySelector('header > a[data-ice="testLink"]');
-	testlink.href = 'https://coveralls.io/github/collection-abstraction/set';
+	testlink.href = 'https://app.codecov.io/gh/collection-abstraction/set';
 	testlink.target = '_BLANK';
 
 	const searchBox = document.querySelector('.search-box');
