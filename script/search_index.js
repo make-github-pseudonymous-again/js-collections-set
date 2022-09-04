@@ -1,26 +1,26 @@
 window.esdocSearchIndex = [
   [
-    "@aureooms/js-collections-set/src/index.js~set",
+    "@collection-abstraction/set/src/index.js~set",
     "variable/index.html#static-variable-Set",
-    "<span>Set</span> <span class=\"search-result-import-path\">@aureooms/js-collections-set/src/index.js</span>",
+    "<span>Set</span> <span class=\"search-result-import-path\">@collection-abstraction/set/src/index.js</span>",
     "variable"
   ],
   [
-    "@aureooms/js-collections-set/src/_set.js~_set",
+    "@collection-abstraction/set/src/_set.js~_set",
     "function/index.html#static-function-_Set",
-    "<span>_Set</span> <span class=\"search-result-import-path\">@aureooms/js-collections-set/src/_Set.js</span>",
+    "<span>_Set</span> <span class=\"search-result-import-path\">@collection-abstraction/set/src/_Set.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-collections-set/src/_set.js~_set",
+    "@collection-abstraction/set/src/_set.js~_set",
     "function/index.html#static-function-_set",
-    "<span>_set</span> <span class=\"search-result-import-path\">@aureooms/js-collections-set/src/_set.js</span>",
+    "<span>_set</span> <span class=\"search-result-import-path\">@collection-abstraction/set/src/_set.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-collections-set/src/index.js~set",
+    "@collection-abstraction/set/src/index.js~set",
     "variable/index.html#static-variable-set",
-    "<span>set</span> <span class=\"search-result-import-path\">@aureooms/js-collections-set/src/index.js</span>",
+    "<span>set</span> <span class=\"search-result-import-path\">@collection-abstraction/set/src/index.js</span>",
     "variable"
   ],
   [
