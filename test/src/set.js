@@ -1,8 +1,7 @@
 import test from 'ava';
 
-import {KeyError} from '@failure-abstraction/error';
-
-import set from '#module';
+import {KeyError} from './_fixtures.js';
+import {set} from '#module';
 
 test(set.name, (t) => {
 	t.is(set().len(), 0, 'len empty');

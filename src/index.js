@@ -6,8 +6,7 @@ const Set = _Set(NativeSet); // Overwrite native implementation
 
 const set = _set(Set);
 
-export default set;
-
 export {set, Set};
 export {default as _set} from './_set.js';
 export {default as _Set} from './_Set.js';
+export {KeyError} from '@failure-abstraction/error';
