@@ -1,6 +1,7 @@
 import test from 'ava';
 
 import {KeyError} from './_fixtures.js';
+
 import {set} from '#module';
 
 test(set.name, (t) => {
